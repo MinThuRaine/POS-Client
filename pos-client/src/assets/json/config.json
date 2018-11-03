@@ -1,0 +1,10 @@
+{
+	"app" : "Default",
+	"appname" : "Default",
+	"ver" : "Default 1.0.0",
+	"title" : "Default",
+	"apiurl" : "http://localhost:8080/default/",
+	"authurl" : "http://localhost:8089/",
+	"key": "lancer ",
+	"refkey": "LCFISH@9#9$5! "
+}
